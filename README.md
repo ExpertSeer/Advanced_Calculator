@@ -1,5 +1,3 @@
-Advanced Calculator:
-
 Advanced Calculator is a versatile application built in C# that combines multiple functionalities for mathematical and utility operations. This project is designed for users who need a comprehensive tool for calculations and number system conversions.
 
 Features:
