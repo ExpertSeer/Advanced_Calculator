@@ -30,7 +30,7 @@ How to Run the Project:
 
 1.Clone the repository using
   bash
-  git clone https://github.com/yourusername/Advanced_Calculator.git
+  git clone https://github.com/ExpertSeer/Advanced_Calculator
   
 2.Open the project in Visual Studio.
 
