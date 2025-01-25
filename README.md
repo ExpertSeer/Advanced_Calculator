@@ -29,7 +29,7 @@ The Advanced Calculator project was created to explore C#'s capabilities while b
 
 1. Clone the repository using
    bash
-   git clone https://github.com/ExpertSeer/Advanced_Calculator
+   git clone https://github.com/your-username/Advanced_Calculator
   
 2. Open the project in Visual Studio.
 
